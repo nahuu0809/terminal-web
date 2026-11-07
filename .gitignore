@@ -1,0 +1,28 @@
+# dependencias y build
+node_modules/
+.next/
+out/
+*.tsbuildinfo
+next-env.d.ts
+
+# variables de entorno y claves
+.env
+.env.*
+!.env.example
+
+# artefactos del generador (v0) que solo existen en la vista previa
+__v0_runtime_loader.js
+__v0_devtools.tsx
+__v0_jsx-dev-runtime.ts
+instrumentation-client.js
+instrumentation-client.ts
+
+# logs
+*.log
+npm-debug.log*
+
+.vercel/
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
