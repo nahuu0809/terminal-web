@@ -35,3 +35,15 @@ Si el broker falla, el backend vuelve automáticamente a los datos de ejemplo.
 
 - Es un prototipo: los precios de ejemplo no son reales.
 - No hay que subir `.env.local` ni claves al repositorio (ver `.gitignore`).
+
+## Créditos
+
+- [Next.js](https://nextjs.org) y [React](https://react.dev) (MIT)
+- [Tailwind CSS](https://tailwindcss.com) (MIT)
+- [shadcn/ui](https://ui.shadcn.com) y [Radix UI](https://www.radix-ui.com) (MIT): componentes de interfaz
+- [Recharts](https://recharts.org) y [Lucide](https://lucide.dev)
+- La base del proyecto se generó con [v0](https://v0.app) (Vercel) y después se modificó a mano.
+
+## Licencia
+
+Código bajo [licencia MIT](LICENSE). © 2026 Nahuel Emiliano Diaz.
